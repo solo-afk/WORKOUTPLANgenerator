@@ -2,5 +2,5 @@ streamlit
 pandas
 scikit-learn
 altair
-google-generative-ai
+google-generative-ai == 0.2.0
 
