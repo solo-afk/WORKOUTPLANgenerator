@@ -2,5 +2,4 @@ streamlit
 pandas
 scikit-learn
 altair
-pip install --upgrade pip
 google-generative-ai 
