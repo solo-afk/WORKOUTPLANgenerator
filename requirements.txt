@@ -3,5 +3,3 @@ pandas
 scikit-learn
 altair
 google-generative-ai 
---upgrade pip
-
