@@ -2,4 +2,6 @@ streamlit
 pandas
 scikit-learn
 altair
+google-cloud-storage
+google-cloud-vision
 google-generative-ai 
