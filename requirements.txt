@@ -5,3 +5,4 @@ altair
 google-cloud-storage
 google-cloud-vision
 google-generative-ai 
+git+https://github.com/google-gemini/generative-ai-python.git
