@@ -1,4 +1,1 @@
 streamlit
-altair
-python -m pip install --upgrade pip
-google-generative-ai 
